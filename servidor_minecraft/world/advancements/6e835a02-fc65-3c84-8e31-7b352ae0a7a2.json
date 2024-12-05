@@ -49,6 +49,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-05 05:40:30 +0000",
       "scrubland": "2024-12-05 02:44:58 +0000",
       "floodplain": "2024-12-05 05:23:46 +0000",
       "old_growth_woodland": "2024-12-05 05:39:05 +0000",
@@ -137,6 +138,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-05 06:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-05 03:55:19 +0000"
@@ -149,9 +156,34 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-05 06:48:03 +0000",
+      "minecraft:zombie": "2024-12-05 06:05:05 +0000"
+    },
+    "done": false
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-05 03:59:57 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-12-05 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-12-05 06:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-05 06:48:40 +0000"
     },
     "done": true
   },
@@ -161,14 +193,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-05 06:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-05 03:11:18 +0000",
       "pumpkin_pie": "2024-12-05 04:18:06 +0000",
       "bread": "2024-12-05 05:03:35 +0000",
-      "cookie": "2024-12-05 05:36:22 +0000"
+      "golden_apple": "2024-12-05 06:49:12 +0000",
+      "cookie": "2024-12-05 05:36:22 +0000",
+      "melon_slice": "2024-12-05 06:20:45 +0000",
+      "carrot": "2024-12-05 06:15:39 +0000"
     },
     "done": false
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2024-12-05 05:47:05 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {

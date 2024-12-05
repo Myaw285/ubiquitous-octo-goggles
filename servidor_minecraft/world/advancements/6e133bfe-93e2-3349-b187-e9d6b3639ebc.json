@@ -49,6 +49,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-05 05:40:40 +0000",
       "scrubland": "2024-12-05 02:26:12 +0000",
       "floodplain": "2024-12-05 05:23:46 +0000",
       "old_growth_woodland": "2024-12-05 05:38:33 +0000",
@@ -86,6 +87,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-05 06:48:04 +0000",
       "minecraft:spider": "2024-12-05 03:43:27 +0000",
       "minecraft:creeper": "2024-12-05 02:56:27 +0000",
       "minecraft:silverfish": "2024-12-05 04:45:37 +0000",
@@ -140,8 +142,10 @@
       "cooked_porkchop": "2024-12-05 03:51:49 +0000",
       "cooked_mutton": "2024-12-05 04:21:45 +0000",
       "cooked_beef": "2024-12-05 03:10:22 +0000",
+      "baked_potato": "2024-12-05 06:49:22 +0000",
       "pumpkin_pie": "2024-12-05 04:29:23 +0000",
       "bread": "2024-12-05 05:34:53 +0000",
+      "golden_apple": "2024-12-05 06:50:14 +0000",
       "melon_slice": "2024-12-05 05:35:27 +0000",
       "carrot": "2024-12-05 04:48:42 +0000"
     },
@@ -149,7 +153,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-05 06:06:05 +0000",
       "minecraft:beach": "2024-12-05 03:54:12 +0000",
+      "minecraft:stony_peaks": "2024-12-05 06:01:32 +0000",
       "minecraft:sparse_jungle": "2024-12-05 05:24:26 +0000",
       "minecraft:river": "2024-12-05 03:53:53 +0000",
       "minecraft:forest": "2024-12-05 03:49:08 +0000",
@@ -162,15 +168,9 @@
     },
     "done": false
   },
-  "idas:castle": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "in_castle": "2024-12-05 05:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-12-05 04:10:42 +0000"
+      "bastion": "2024-12-05 04:00:00 +0000"
     },
     "done": true
   },
@@ -180,27 +180,21 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "bastion": "2024-12-05 04:00:00 +0000"
+      "iron_leggings": "2024-12-05 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-05 04:16:13 +0000"
     },
     "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-05 04:16:21 +0000"
-    },
-    "done": true
-  },
-  "idas:ancient_mines": {
-    "criteria": {
-      "in_ancient_mines": "2024-12-05 04:44:53 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_04": "2024-12-05 04:46:01 +0000"
     },
     "done": true
   },
@@ -222,9 +216,51 @@
     },
     "done": false
   },
-  "minecraft:story/smelt_iron": {
+  "idas:ancient_mines": {
     "criteria": {
-      "iron": "2024-12-05 04:16:13 +0000"
+      "in_ancient_mines": "2024-12-05 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_04": "2024-12-05 04:46:01 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-05 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-05 05:49:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-05 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-12-05 06:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-05 06:47:54 +0000"
+    },
+    "done": true
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2024-12-05 06:22:15 +0000"
     },
     "done": true
   },
