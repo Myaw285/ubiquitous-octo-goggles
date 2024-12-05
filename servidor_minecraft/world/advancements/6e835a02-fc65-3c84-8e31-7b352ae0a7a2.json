@@ -50,6 +50,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-05 05:40:30 +0000",
+      "rocky_shrubland": "2024-12-05 07:53:38 +0000",
       "scrubland": "2024-12-05 02:44:58 +0000",
       "floodplain": "2024-12-05 05:23:46 +0000",
       "old_growth_woodland": "2024-12-05 05:39:05 +0000",
@@ -94,6 +95,7 @@
       "minecraft:river": "2024-12-05 02:47:02 +0000",
       "minecraft:lukewarm_ocean": "2024-12-05 05:32:38 +0000",
       "minecraft:stony_shore": "2024-12-05 05:32:09 +0000",
+      "minecraft:cold_ocean": "2024-12-05 07:55:33 +0000",
       "minecraft:forest": "2024-12-05 03:49:27 +0000",
       "minecraft:jungle": "2024-12-05 05:24:01 +0000",
       "minecraft:ocean": "2024-12-05 05:08:44 +0000",
@@ -223,9 +225,21 @@
     },
     "done": true
   },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2024-12-05 07:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-05 04:06:46 +0000"
+    },
+    "done": true
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2024-12-05 07:38:00 +0000"
     },
     "done": true
   },
