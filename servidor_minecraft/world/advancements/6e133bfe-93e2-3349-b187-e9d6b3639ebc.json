@@ -20,7 +20,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2024-12-05 02:26:12 +0000",
-      "mediterranean_forest": "2024-12-05 02:25:48 +0000"
+      "mediterranean_forest": "2024-12-05 02:25:48 +0000",
+      "prairie": "2024-12-05 02:55:24 +0000"
     },
     "done": false
   },
@@ -32,6 +33,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2024-12-05 02:56:27 +0000",
       "minecraft:zombie": "2024-12-05 02:27:53 +0000"
     },
     "done": false
@@ -45,6 +47,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-05 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-05 02:49:27 +0000"
     },
     "done": true
   },
@@ -69,6 +77,18 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-05 02:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 02:49:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-05 02:49:27 +0000"
     },
     "done": true
   },
