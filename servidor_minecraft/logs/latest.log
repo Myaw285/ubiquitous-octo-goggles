@@ -2918,3 +2918,14 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [05Dec2024 03:09:40.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dtbop:biomesoplenty_fir_sapling_to_fir_seed removed now.
 [05Dec2024 03:09:40.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GermanDH[/127.24.61.137:34399] logged in with entity id 10512 at (-318.992650630175, 94.5, -222.97281114717396)
 [05Dec2024 03:09:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GermanDH joined the game
+[05Dec2024 03:33:45.735] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:33:45.761] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:33:45.761] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:34:42.707] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 03:34:42.708] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 03:34:42.708] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:34:42.713] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:34:42.851] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 03:34:42.851] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 03:34:42.852] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[05Dec2024 03:37:08.854] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge]] from pos BlockPos{x=-283, y=74, z=-555}
