@@ -103,5 +103,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-05 03:11:18 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

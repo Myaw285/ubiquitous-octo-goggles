@@ -12777,3 +12777,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [05Dec2024 03:09:40.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GermanDH[/127.24.61.137:34399] logged in with entity id 10512 at (-318.992650630175, 94.5, -222.97281114717396)
 [05Dec2024 03:09:40.608] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@28b59908 into net.minecraft.network.Connection@7d5c8558
 [05Dec2024 03:09:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GermanDH joined the game
+[05Dec2024 03:14:22.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:14:22.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:19:22.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:19:22.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
